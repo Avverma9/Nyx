@@ -1,3 +1,7 @@
+
+SITE IS LIVE AT https://avvermanyx.netlify.app/about
+Full Stack task Is LIVE 
+
 MERN/PERN Stack Task Description
 Task Summary
 Simple CRUD real-time system using MERN/PERN stack
