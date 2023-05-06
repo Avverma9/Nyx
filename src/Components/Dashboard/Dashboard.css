@@ -1,0 +1,52 @@
+/* Dashboard container */
+.dashboard-containers {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #f5f5f5;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Heading styles */
+  .dashboard-containers h1 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    text-align: center;
+  }
+  
+  /* Ledger container styles */
+  .ledger-containers {
+    margin-top: 2rem;
+  }
+  
+  .ledger-containers h2 {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+  }
+  
+  /* Link styles */
+  .ledger-containers ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .ledger-containers ul li {
+    margin-bottom: 1rem;
+  }
+  
+  .ledger-containers ul li a {
+    display: block;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    background-color: #fff;
+    color: #333;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .ledger-containers ul li a:hover {
+    background-color: #e0e0e0;
+  }
+  
