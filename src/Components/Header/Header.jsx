@@ -6,10 +6,10 @@ function Header() {
   return (
     <Menu inverted className="header">
       <Menu.Item>
-        <a href="/about">
+        <a href="/about" className="header__link header__logo">
           <Image
             src={
-              "https://classroom-training-bucket.s3.ap-south-1.amazonaws.com/1683299610270-Untitled-removebg-preview.png"
+              "https://avverma.s3.ap-south-1.amazonaws.com/1684658519082-Untitled-removebg-preview%20%281%29.png"
             }
             alt="Logo"
             size="tiny"

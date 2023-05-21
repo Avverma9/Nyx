@@ -10,16 +10,22 @@
   .header__logo {
     display: flex;
     align-items: center;
+    margin-right: 10px;
+    height: 40px;
+    width: 190px;
+  }
   
+  .header__logo {
+    display: flex;
+    align-items: center;
   }
   
   .header__logo img {
-    margin-right: 10px;
-    border-radius: 50%;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-    animation: rotate 2s infinite linear;
-    
+    width: 120px; 
+    height: auto; 
+    margin-right: 10px; 
   }
+  
   
   .header__title {
     margin: 0;
